@@ -1,0 +1,1 @@
+require 'mvcss_rails'
